@@ -9,17 +9,19 @@ It'll take some getting used to, but the Command Key (⌘) is basically the Cont
 | ------------- | -----:|:-------------:|
 | Cut        | ⌘ + X | Ctrl + X |
 | Copy       | ⌘ + C | Ctrl + C |
-| Select All | ⌘ + A| Ctrl + A |
+| Select All | ⌘ + A | Ctrl + A |
 | Paste      | ⌘ + V | Ctrl + V |
-| Undo       | ⌘ + Z | Ctrl + Z  |
+| Undo       | ⌘ + Z | Ctrl + Z |
 | Print      | ⌘ + P | Ctrl + P |
-| Find       | ⌘ + F | Ctrl + F  |
-| Find Again | ⌘ + G | Ctrl + G  |
-| Open       | ⌘ + O | Ctrl + O  |
-| Save       | ⌘ + S | Ctrl + S  |
+| Find       | ⌘ + F | Ctrl + F |
+| Find Again | ⌘ + G | Ctrl + G |
+| Open       | ⌘ + O | Ctrl + O |
+| Save       | ⌘ + S | Ctrl + S |
 | Close Front Window | ⌘ + W | Ctrl + W  |
 | Quit App | ⌘ + Q | Alt + F4  |
+
 ... You get the idea, at little less intuitive:
+
 | Action       | Mac  | Windows           |
 | ------------- | -----:|:-------------:|
 | Move Between Programs         | ⌘ + Tab           | Alt + Tab |
